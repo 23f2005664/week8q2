@@ -1,5 +1,6 @@
 ---
 marp: true
+theme: default
 paginate: true
 footer: "© 2025 Your Company | 23f2005664@ds.study.iitm.ac.in"
 ---
