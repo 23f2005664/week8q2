@@ -31,16 +31,14 @@ footer {
 
 ---
 
-<!-- Slide with background image -->
-<!-- Use an online image URL; you can replace it with a local asset later -->
+---
 backgroundImage: url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?fit=crop&w=1200&q=80')
-
+class: dimmed
 # Feature Highlights
 
 - Real‑time collaboration
 - Integrated code samples
 - Automated changelog generation
-
 ---
 
 # Architecture Diagram
