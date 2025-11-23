@@ -31,14 +31,14 @@ footer {
 
 ---
 
----
-backgroundImage: url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?fit=crop&w=1200&q=80')
-class: dimmed
+![bg brightness:0.4](https://images.unsplash.com/photo-1519389950473-47ba0277781c?fit=crop&w=1200&q=80)
+
 # Feature Highlights
 
 - Real‑time collaboration
 - Integrated code samples
 - Automated changelog generation
+
 ---
 
 # Architecture Diagram
