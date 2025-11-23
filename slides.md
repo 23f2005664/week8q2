@@ -68,7 +68,7 @@ where *n* is the number of documents.
 # Custom Styling Example
 
 <!-- Use Marp directives for custom class -->
-class: center, highlight
+<!-- _class: center, highlight -->
 
 **Key Takeaway:**
 
